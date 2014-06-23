@@ -20,10 +20,10 @@ MEXT = md
 SRC = $(wildcard *.$(MEXT))
 
 ## Location of Pandoc support files.
-PREFIX = /Users/jamesr/.pandoc
+PREFIX = /Users/james/.pandoc
 
 ## Location of your working bibliography file
-BIB = /Users/jamesr/Documents/bibs/pandoc.bib
+BIB = /Users/james/Documents/bibs/pandoc.bib
 
 ## CSL stylesheet (located in the csl folder of the PREFIX directory).
 CSL = apsa
